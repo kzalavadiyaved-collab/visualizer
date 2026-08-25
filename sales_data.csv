@@ -1,1 +1,21 @@
-
+Date,Product,Region,Sales,Profit
+2023-01-04,Product A,North,620,95
+2023-01-08,Product B,East,740,135
+2023-01-12,Product C,West,680,105
+2023-01-16,Product D,South,850,175
+2023-01-20,Product E,Central,590,125
+2023-02-03,Product A,North,710,115
+2023-02-07,Product B,East,780,150
+2023-02-11,Product C,West,730,110
+2023-02-16,Product D,South,920,185
+2023-02-21,Product E,Central,640,130
+2023-03-02,Product A,North,670,108
+2023-03-06,Product B,East,690,128
+2023-03-11,Product C,West,810,120
+2023-03-15,Product D,South,870,170
+2023-03-20,Product E,Central,610,118
+2023-04-02,Product A,North,760,135
+2023-04-06,Product B,East,720,142
+2023-04-10,Product C,West,840,125
+2023-04-14,Product D,South,950,195
+2023-04-19,Product E,Central,680,140
