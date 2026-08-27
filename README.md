@@ -235,7 +235,7 @@ The project helps identify:
 ---
 
 ## video
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1GdYw8-qNaqjOZDgYSNgPnfSg2_6tYBG9/view?usp=sharing)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1HLP8tHOisDFLGyaVp49TI1NL-7rEjbGs/view?usp=drive_link)
 
 
 🎓 Learning Outcomes
